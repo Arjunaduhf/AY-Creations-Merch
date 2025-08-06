@@ -1,2 +1,51 @@
-# AY-Creations-Merch
-A repo where you can get AY Creation Youtube Channel posters for free.
+# A.Y. Creations – Poster Collection
+
+Welcome to the A.Y. Creations repository!  
+This space contains our official posters and banners for showcasing, printing, and sharing.
+
+---
+
+## 📥 How to Download a Poster
+
+This method works the same on Windows, macOS, Linux, and ChromeOS:
+
+1. Click on the file name of the poster you want to download.
+2. On the image preview page, click the “Download” button in the top-right corner.
+
+The file will be saved to your computer's default Downloads folder.
+
+---
+
+## 🖨️ How to Print
+
+After downloading:
+
+1. Open the image using your computer’s image viewer:
+   - Windows: Photos or Paint  
+   - macOS: Preview  
+   - Linux: Image Viewer or GIMP  
+2. Press `Ctrl+P` or `Cmd+P` to open the print dialog.
+3. Choose your printer, paper size, and scaling options.
+4. Print in high quality for best results.
+
+---
+
+## 📁 Why These Posters Are Hosted Here
+
+This GitHub repository is used to:
+
+- Organize multiple posters in one place
+- Provide easy access from any device
+- Store designs with version control
+- Generate consistent download links for sharing
+
+---
+
+## 📢 Usage
+
+These posters can be used for:
+
+- Wall Posters
+- Channel Memories (some older posters will be removed hafter 1-2 years)
+
+---
